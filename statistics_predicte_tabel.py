@@ -258,6 +258,7 @@ if __name__ == '__main__':
     #"result_table" and "clean_table" are the files of reference header.
     result_table = './data/result_process.txt'
     clean_table = './data/clean_table_process.txt'
+    
     #save frequent dicitionary in this file.
     stat_file = './data/statistics_word.txt'
     #test data: unclean_table_process.txt or test_data2.txt

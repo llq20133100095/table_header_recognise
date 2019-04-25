@@ -13,10 +13,10 @@ def read_file_name(filename_list, file_name_short, file_dir):
             filename_list.append(os.path.join(root,file))
             file_name_short.append(file)
             
-table_file_dir = './data/clean_tables'
+table_file_dir = u'./data/clean_tables'
 filename_list = []
 file_name_short = []
-table_file_save = open('./data/clean_table_process.txt', 'w')
+table_file_save = open('./data/aaa/clean_table_process.txt', 'w')
 
 read_file_name(filename_list, file_name_short, table_file_dir)
 
