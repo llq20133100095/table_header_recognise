@@ -47,6 +47,9 @@
 
 4.data_process_clean_table.py：处理文件夹clean_table，并生成文件clean_table_process.txt
 
+- 该文件夹存放到data文件夹中，下载地址为:
+- [百度网盘](https://pan.baidu.com/s/1Kp0SMLGpxTErRe7KWtGxEQ)，提前码为：8pdh
+
 5.data_process_result.py：处理文件result.txt，并生成文件result_process.txt
 
 6.data_process_unclean_table.py：处理文件夹unclean_tables,test_data和test_data2。用来生成文件unclean_table_process.txt, test_data.txt和test_data2.txt。
